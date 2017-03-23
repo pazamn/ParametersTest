@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ParametersTest/v14/.suo
+/bin/Debug
+/bin/Release
+/obj/x86
+*.suo
